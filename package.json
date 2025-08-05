@@ -12,10 +12,10 @@
   "license": "MIT",
   "dependencies": {
     "finalhandler": "^1.1.2",
-    "serve-static": "^1.14.1",
+    "serve-static": "^1.16.0",
     "winston": "^3.3.3",
     "winston-daily-rotate-file": "^4.5.0",
-    "ws": "^7.4.3"
+    "ws": "^7.5.10"
   },
   "devDependencies": {
     "@types/finalhandler": "^1.1.0",
@@ -23,7 +23,7 @@
     "@types/node": "^14.14.14",
     "@types/serve-static": "^1.13.8",
     "@types/ws": "^7.4.0",
-    "jest": "^26.6.3",
+    "jest": "^30.0.5",
     "typescript": "^4.1.5"
   },
   "optionalDependencies": {
